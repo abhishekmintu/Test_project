@@ -317,4 +317,5 @@
 027900         10  FILLER                          PIC X(28).
 028000         10  W2-CONTROL-NUMBER               PIC X(07).
                10  W3-CONTROL-NUMBER               PIC X(07).
+               10  W4-CONTROL-NUMBER               PIC X(07).
 028100
